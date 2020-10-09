@@ -1,3 +1,3 @@
 # RedditRandomNSFW
 
-This is a really stupid project I made when super drunk... don't judge
+This is a really stupid project I made while super drunk... don't judge
